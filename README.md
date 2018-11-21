@@ -1,3 +1,3 @@
 # templateProgramming  
-Code demonstrating understanding and use of templated functions in C++.  
+Code demonstrating use of templated functions in C++.  
 Uses separate implementation.  
